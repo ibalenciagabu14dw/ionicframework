@@ -12,4 +12,12 @@ $ sudo apt-get install nodejs npm
 $ sudo npm install -g cordova ionic
 ```
 
+### Start Project
+
+```
+$ ionic start myApp tabs
+$ cd myApp
+$ ionic serve
+```
+
 
