@@ -18,6 +18,9 @@ $ sudo npm install -g cordova ionic
 $ ionic start myApp tabs
 $ cd myApp
 $ ionic serve
+OR
+$ ionic platform add android
+$ ionic run android
 ```
 
 
