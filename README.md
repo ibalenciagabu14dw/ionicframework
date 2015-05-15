@@ -23,4 +23,14 @@ $ ionic platform add android
 $ ionic run android
 ```
 
+### c9.io
+
+https://docs.c9.io/v1.0/docs/ionic
+
+```
+$ npm install -g cordova ionic
+$ ionic start myApp sidemenu
+$ cd myApp
+$ ionic serve $PORT
+```
 
